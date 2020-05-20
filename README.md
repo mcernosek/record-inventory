@@ -9,6 +9,9 @@ Technologies Utilized:
 - H2 In Memory Database
 
 
+Next phase of the project is to build out a UI that consumes the API. The tutorial outlines how to do this using Angular but I am working on building it with React instead.
+
+
 
 
 
